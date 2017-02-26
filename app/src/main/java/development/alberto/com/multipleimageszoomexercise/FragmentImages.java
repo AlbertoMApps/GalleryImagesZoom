@@ -54,7 +54,7 @@ public class FragmentImages extends Fragment implements View.OnTouchListener, Vi
 
 
     /**
-     * En cualquier momento que clickes en la imagen, se agrandar la imagen
+     * En cualquier momento que clickes en la imagen, se agranda la imagen
      * @param v
      */
 
